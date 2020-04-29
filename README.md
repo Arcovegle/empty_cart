@@ -1,5 +1,5 @@
 # empty_cart
-This project is to help you empty your cart in Taobao at a specific time, which can be used in shopping festivals.
+This project is to help you empty your cart in Taobao at a specific time, which may help you(or your girlfriend) in shopping festivals:)
 
 To correctly run the scrpit, you should use Chrome browser.
 You should install chromedriver under your chrome path and configure your environment variable.
